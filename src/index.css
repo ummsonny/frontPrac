@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+
+h1.active {
+  color: red;
+  font-weight: bold;
+}
+
+.box {
+  height: 200px;
+  background-color: red;
+  transition: width 0.3s;
+}
